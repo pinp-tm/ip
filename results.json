@@ -1,0 +1,10 @@
+{
+"open":"true",
+"img":"false",
+"link":"false",
+"text1":"false",
+"text2":"false",
+"version":"1.0",
+"linkdownload":"false",
+"api":"http://ip-api.com/json/"
+}
